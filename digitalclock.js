@@ -155,3 +155,7 @@ function alarmDisplay()
 {
     document.getElementById("alarm").style.display="flex"
 }
+function alarmClose()
+{
+    document.getElementById("alarm").style.display="none"
+}
